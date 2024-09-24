@@ -1,4 +1,6 @@
 dog,
 cat,
 rat,
-chicken.
+chicken,
+horse,
+hen.
